@@ -2,7 +2,7 @@
   "name": "meancms",
   "version": "1.0.0",
   "description": "A simple CMS built on the MEAN stack.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -29,5 +29,11 @@
   "bugs": {
     "url": "https://github.com/ldcaponi/MeanCMS/issues"
   },
-  "homepage": "https://github.com/ldcaponi/MeanCMS#readme"
+  "homepage": "https://github.com/ldcaponi/MeanCMS#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.2.7"
+  }
 }
