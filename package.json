@@ -1,0 +1,33 @@
+{
+  "name": "meancms",
+  "version": "1.0.0",
+  "description": "A simple CMS built on the MEAN stack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldcaponi/MeanCMS.git"
+  },
+  "keywords": [
+    "mean",
+    "stack",
+    "angular",
+    "angularjs",
+    "blog",
+    "wordpress",
+    "node",
+    "nodejs",
+    "express",
+    "expressjs",
+    "bootstrap",
+    "twitter"
+  ],
+  "author": "ldcaponi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ldcaponi/MeanCMS/issues"
+  },
+  "homepage": "https://github.com/ldcaponi/MeanCMS#readme"
+}
